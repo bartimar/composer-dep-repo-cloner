@@ -1,6 +1,6 @@
 # nette-dep-repo-cloner
 
-Bash script to parse dependency git repos from nette composer.json with [https://stedolan.github.io/jq/] and clone them
+Bash script to parse dependency git repos from nette composer.json with [jq](https://stedolan.github.io/jq/) and clone them
 
 The only argument of this script is a path of the file to parse (default is "./composer.json")
 
